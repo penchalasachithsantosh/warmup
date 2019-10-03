@@ -11,6 +11,9 @@
  0 0 0 0 0 0 0 0 0 0
 */
 
+/**
+ * Writng this from CLI
+ */
 
 /**
  * Sachith please make the numbers read 0 1 2 3 4 5 6 7 8 9
