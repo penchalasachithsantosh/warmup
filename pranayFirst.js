@@ -12,6 +12,10 @@
 */
 
 
+/**
+ * Sachith please make the numbers read 0 1 2 3 4 5 6 7 8 9
+ */
+
 var n = 9;
 
 for (var i = 0; i < n; i++) {
