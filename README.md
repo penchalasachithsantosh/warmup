@@ -6,6 +6,7 @@
 - Git for Windows
 - VS Code
 - Nodejs
+- Phaser JS (Make Pong in phaserjs) - https://www.youtube.com/watch?v=4dHlbXigtss
 
 ### Things to learn
 
